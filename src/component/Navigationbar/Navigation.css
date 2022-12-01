@@ -1,0 +1,22 @@
+.bgcolor{
+    background-color: #00bfff;
+    font-size: 19px;
+ 
+}
+.navigation-space{
+    padding: 0px !important;
+}
+.w-70{
+    width: 70%;
+}
+#basic-nav-dropdown {
+    color: rgb(248, 246, 246) !important;
+}
+@media only screen and (max-width: 600px) {
+    .w-70{
+        flex-direction: column;
+    }
+    .navigation-space{
+        padding: 0.5rem !important;
+    }
+  }
