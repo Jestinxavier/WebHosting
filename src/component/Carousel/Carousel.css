@@ -1,0 +1,22 @@
+.carousel-indicators li {
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+  }
+  img {
+    max-width: 100%;
+    width: auto   9;
+    height: 600px;
+    vertical-align: middle;
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+    object-fit: cover;
+  }
+  .carousel-indicators button {
+    height: 18px !important;
+    width: 18px !important;
+    border-radius: 300px ;
+    box-sizing: border-box !important;
+    background-clip:unset !important;
+    
+  }

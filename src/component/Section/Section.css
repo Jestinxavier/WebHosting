@@ -1,0 +1,30 @@
+.position{
+  position: absolute;
+}
+.display-height{
+  display: flex;
+  height: 300px;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: aqua;
+}
+.bg-style{
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+}
+.img-thumbnail{
+  background-color: rgba(240, 248, 255, 0) !important;
+  border: 0px !important;
+  width: 100px;
+  height:auto ;
+
+
+}
+.header-border{
+  border-bottom: 1px solid #a9a9a97a;
+}
+.header-color{
+  color: #05447a;
+}
